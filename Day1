@@ -1,0 +1,103 @@
+//DAY 1
+/*
+Javascript is a programming language.
+
+
+
+1) using console.
+Tempoarary Code. 
+ctrl + l,k= clear
+
+2) Variables
+Variables is like containers which store data.
+Is simply a storage location.
+
+3) Data types in js
+
+to check type - typeof
+primitive data types
+- Number
+- boolean
+- string
+- undefined
+- null
+- bigint
+- symbol
+
+
+4) Numbers in js
+
+postive, negative, floating
+
+5) Operations in Js
+
+a+b = a & b are operads
+
+addition
+substraction
+multiplication
+divide
+Modulo = 2%1==0
+Exponentiational operator (power)= 2**5
+
+6) NAN in js
+The Nan global property is a value representing NOt a number.
+typeof Nan= Number
+
+0/0
+
+
+7) Opeators precedence (Priority)
+ 
+Bodmas rule.
+1. Brackets.
+2. Power operator
+3. Multiple , divide
+4. Add , Substract
+
+8) Assignment opeartor.
+
+This operator assign value to variables.
+
+9) Unary Opearors.
+
+age+=1
+age++
+
+10) Identifier rules
+
+All javascripts variables must be identified by unique name
+
+not a no.
+
+11) Boolean in js
+
+Boolean represents a truth value/ yes/no, true or false
+
+12) Typescript
+
+Static type, Js is dynamic type
+Designed by Microsoft
+
+13) Strings
+Strings are text, sequence of characters.
+Written in single and double quotes.
+
+
+14) String Index
+
+String are said to be characters position
+they are 0 based indexing
+let name = "Tony"
+tony[2]
+
+
+15) NUll & Undefined
+The variable that as not assign a value is undefined.
+undefined = not assign any value to variable// mujhe nhi pata
+
+Null= The Null value represent the intentional absence of any object value.
+
+ */
+
+ 
