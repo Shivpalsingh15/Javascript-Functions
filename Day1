@@ -90,6 +90,9 @@ String are said to be characters position
 they are 0 based indexing
 let name = "Tony"
 tony[2]
+to get last el of array 
+let ar = [1,2,3,4,5,67,8]
+console.log(ar[ar.length-1])
 
 
 15) NUll & Undefined
